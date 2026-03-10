@@ -1,1 +1,2 @@
-# Expense-Tracker
+# Personal Expense Tracker (Python)
+
