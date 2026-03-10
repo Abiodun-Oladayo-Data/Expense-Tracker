@@ -1,7 +1,7 @@
 # Personal Expense Tracker (Python)
 
-Project Overview;
+This project is a command-line Personal Expense Tracker built in Python that allows users to record daily expenses, manage a monthly budget, and store expense data in a CSV file for persistence.
 
-This project is a command-line Personal Expense Tracker built in Python that allows users to record daily expenses, categorize spending, track a monthly budget, and store expense records in a CSV file.
-The application helps users maintain better financial awareness by allowing them to log expenses, monitor total spending, and compare it against a defined monthly budget.
-The program uses a simple menu-driven interface, making it easy for users to interact with the system through the terminal.
+The application provides a simple menu-driven interface where users can add expenses, view previously recorded transactions, track their spending against a defined budget, and save their data to a CSV file.
+
+The goal of the project is to demonstrate fundamental Python programming concepts such as functions, loops, input validation, file handling, and data persistence using CSV files while building a practical financial tracking tool.
